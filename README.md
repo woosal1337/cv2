@@ -9,16 +9,18 @@
 </div>
 
 # Syllabus:
-#### Fundamentals of OpenCV
-#### Drawing Shapes
-#### Image Processing Techniques
-#### Image Filtering
-#### Arithmetic with Images
-#### Morphological transformations
-#### Image histograms
-#### Thresholding techniques
-#### Edge Detection
-#### Feature detection
+```
+ Fundamentals of OpenCV
+ Drawing Shapes
+ Image Processing Techniques
+ Image Filtering
+ Arithmetic with Images
+ Morphological transformations
+ Image histograms
+ Thresholding techniques
+ Edge Detection
+ Feature detection
+```
 
 # Resources:
 - https://en.wikipedia.org/wiki/Camera_obscura
