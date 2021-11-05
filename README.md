@@ -9,7 +9,19 @@
 </div>
 
 # Syllabus:
-
-
+#### Fundamentals of OpenCV
+#### Drawing Shapes
+#### Image Processing Techniques
+#### Image Filtering
+#### Arithmetic with Images
+#### Morphological transformations
+#### Image histograms
+#### Thresholding techniques
+#### Edge Detection
+#### Feature detection
 
 # Resources:
+- https://en.wikipedia.org/wiki/Camera_obscura
+- https://www.youtube.com/watch?v=LutIudRhm10
+- https://www.youtube.com/watch?v=zd4F-N301bk
+- https://www.packtpub.com/product/mastering-opencv-4-with-python/9781789344912
