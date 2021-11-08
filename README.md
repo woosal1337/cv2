@@ -27,3 +27,6 @@
 - https://www.youtube.com/watch?v=LutIudRhm10
 - https://www.youtube.com/watch?v=zd4F-N301bk
 - https://www.packtpub.com/product/mastering-opencv-4-with-python/9781789344912
+- https://medium.com/featurepreneur/performing-bitwise-operations-on-images-using-opencv-6fd5c3cd72a7
+- https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
+- https://theailearner.com/tag/cv2-getaffinetransform/
