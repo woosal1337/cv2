@@ -22,6 +22,16 @@
  Feature detection
 ```
 
+# OpenCV Installation:
+For the base edition:
+```shell
+$ pip install opencv-python
+```
+Full the full edition (contributions included):
+```shell
+$ pip install opencv-contrib-python
+```
+
 # Resources:
 - https://en.wikipedia.org/wiki/Camera_obscura
 - https://www.youtube.com/watch?v=LutIudRhm10
