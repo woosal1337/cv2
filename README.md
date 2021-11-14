@@ -22,6 +22,11 @@
  Feature detection
 ```
 
+# Course Link (in Turkish):
+<div align="center">
+    <img src="assets/ytsvnQpyFZg-HD.jpg" width=75% />
+</div>
+
 # OpenCV Installation:
 For the base edition:
 ```shell
