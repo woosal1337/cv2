@@ -46,3 +46,4 @@ $ pip install opencv-contrib-python
 - https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
 - https://theailearner.com/tag/cv2-getaffinetransform/
 - https://alyssaq.github.io/2014/understanding-hough-transform/
+- https://moonbooks.org/Articles/Implementing-a-simple-python-code-to-detect-straight-lines-using-Hough-transform/
