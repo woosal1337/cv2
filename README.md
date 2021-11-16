@@ -45,3 +45,4 @@ $ pip install opencv-contrib-python
 - https://medium.com/featurepreneur/performing-bitwise-operations-on-images-using-opencv-6fd5c3cd72a7
 - https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08
 - https://theailearner.com/tag/cv2-getaffinetransform/
+- https://alyssaq.github.io/2014/understanding-hough-transform/
