@@ -24,7 +24,9 @@
 
 # Course Link (in Turkish):
 <div align="center">
-    <img src="assets/ytsvnQpyFZg-HD.jpg" width=75% />
+    <a href="https://www.youtube.com/watch?v=ytsvnQpyFZg">
+        <img src="assets/ytsvnQpyFZg-HD.jpg" width=75% />
+    </a>
 </div>
 
 # OpenCV Installation:
